@@ -17,7 +17,7 @@ export default function Intro() {
             <div className="wrap mt-16 text-center p-5">
                 <p className='uppercase text-xl'>A solana memecoin</p>
                 <h1 className='lg:text-8xl text-4xl font-extrabold my-5 mt-3 font-jumb'>MEet $CHUCHU</h1>
-                <span className='italic text-3xl'>Achi is the dog in the $WIF meme Chuchu is cute, we believe she deserves a billion too. <br /> Evidence on @ma_babezz on instagram            </span>
+                <span className='italic text-3xl'>$CHUCHU is Achi’s little sister Achi is the dog in the $WIF meme Chuchu is cute, we believe she deserves a billion too <br /> Evidence on @ma_babezz on instagram            </span>
             </div>
 
             <div className="btn-wrap text-center my-10 ">
