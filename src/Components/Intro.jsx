@@ -12,10 +12,9 @@ export default function Intro() {
                 <a href="https://t.me/">Telegram</a>
                 <a href="https://x.com/chuchusolana_?s=21&t=K7DvZ0QEijDLFd96yEE7LQ">X</a>
                 <a href="#">Intagram</a>
-                <a href="#">Discord</a>
             </div>
 
-            <div className="wrap mt-16 text-center">
+            <div className="wrap mt-16 text-center p-5">
                 <p className='uppercase font-xl'>A solana memecoin</p>
                 <h1 className='lg:text-8xl text-4xl font-extrabold my-5 mt-3 font-jumb'>MEet $CHUCHU</h1>
                 <span className='italic'>Achi is the dog in the $WIF meme Chuchu is cute, we believe she deserves a billion too. Evidence on @ma_babezz on instagram            </span>
