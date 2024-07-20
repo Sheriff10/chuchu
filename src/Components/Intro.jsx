@@ -9,7 +9,7 @@ export default function Intro() {
 
             <div className="socials flex gap-5 justify-center items-center font-light uppercase text-lg mt-5">
                 <a href="#" className='underline'>Socials:</a>
-                <a href="https://t.me/">Telegram</a>
+                <a href="https://t.me/chuchuonssol">Telegram</a>
                 <a href="https://x.com/chuchusolana_?s=21&t=K7DvZ0QEijDLFd96yEE7LQ">X</a>
                 <a href="#">Intagram</a>
             </div>

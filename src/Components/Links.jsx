@@ -9,8 +9,8 @@ export default function Links() {
                 </div>
 
                 <div className="flex flex-wrap gap-10 justify-center md:w-1/2 mx-auto font-jumb mt-3">
-                    <a href="https://telegram.org">Telegram</a>
-                    <a href="https://x.com">X</a>
+                    <a href="https://t.me/chuchuonssol">Telegram</a>
+                    <a href="https://x.com/chuchusolana_?s=21&t=K7DvZ0QEijDLFd96yEE7LQ">X</a>
                     <a href="https://instagram.com">Instagram</a>
                     <a href="https://birdeye.io">Birdeye.io</a>
                     <a href="https://solscan.io">Solscan.io</a>
