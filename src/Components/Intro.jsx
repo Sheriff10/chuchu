@@ -10,7 +10,7 @@ export default function Intro() {
             <div className="socials flex gap-5 justify-center items-center font-light uppercase text-lg mt-5">
                 <a href="#" className='underline'>Socials:</a>
                 <a href="https://t.me/chuchuonssol">Telegram</a>
-                <a href="https://x.com/chuchusolana_?s=21&t=K7DvZ0QEijDLFd96yEE7LQ">X</a>
+                <a href="https://x.com/chuchusolana_?s=21&t=K7DvZ0QEijDLFd96yEE7LQ">X (formely twitter)</a>
                 <a href="#">Intagram</a>
             </div>
 
@@ -18,7 +18,7 @@ export default function Intro() {
                 <p className='uppercase text-xl'>A solana memecoin</p>
                 <h1 className='lg:text-8xl text-4xl font-extrabold my-5 mt-3 font-jumb'>MEet $CHUCHU</h1>
                 <span className='italic text-3xl'>Achi is the dog in the $WIF meme Chuchu is cute, we believe she deserves a billion too. <br /> Evidence on @ma_babezz on instagram            </span>
-            </div>   
+            </div>
 
             <div className="btn-wrap text-center my-10 ">
                 <button className='p-4 px-7 border border-black font-jumb text-red-800'>Buy Now</button>
